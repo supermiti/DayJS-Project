@@ -1,2 +1,4 @@
 # DayJS-Project
-region time
+
+Upon opening it must look like this:
+![Demo](src/picture.jpg)
